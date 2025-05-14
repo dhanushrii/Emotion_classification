@@ -14,8 +14,8 @@ This project is a real-time ECG Emotion Detection System that uses an Arduino UN
    - Arduino UNO reads the ECG data and transmits it.
    - LSTM-based ML Model classifies the user's emotional state from ECG input.
    - Output :
-       Displayed in a web interface (heartbeat + emotion)
-       Sent to ThingSpeak for logging and future analysis
+     - Displayed in a web interface (heartbeat + emotion)
+     - Sent to ThingSpeak for logging and future analysis
 
 2. Hardware Setup
    - Electrodes are attached at RA, LA, and RL positions on the body.
