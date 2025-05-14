@@ -1,0 +1,18 @@
+/* App.css */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  width: 100vw;  /* Full viewport width */
+  background-color: #f4f4f4; /* Light background */
+}
+
+.card {
+  background: rgb(0, 0, 0);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 350px; /* Fixed width for better structure */
+}
